@@ -24,3 +24,18 @@ stack.sort()
 #printing the list after sorting
 
 print(stack)
+
+
+
+#poping  the element from the list
+
+
+stack.pop()#It will pop the last element of the list 
+
+print(stack)
+
+print(len(stack)==0) #checking whether list is empty or not
+
+print(stack[-1]) #It will print the  last element of the list
+
+
